@@ -97,7 +97,7 @@ You have the right to:
 - Opt out of marketing communications
 - Object to certain processing of your data
 
-To exercise these rights, please contact us at privacy@arooma.com.
+To exercise these rights, please contact us at support@arooma.com.ng
 
 ### 11. Cookies and Tracking Technologies
 
